@@ -1,3 +1,6 @@
+# 概要
+Reactのチュートリアルにある3目並べです。TypeScriptで書きました。
+![build](https://github.com/SeiyaIwabuchi/react-tutorial/workflows/build/badge.svg)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
